@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    font-size: 45px;
+    text-shadow: 0 2px white;
+}
+
+section {
+    text-align: center;
+    margin: auto;
+    padding: 350px 0;
+    transition: all .5s;
+}
+
+button {
+    border: none;
+    background-color: tomato;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 800;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: brown;
+}
+
+#contarClick {
+    font-size: 85px;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px auto;
+    background-color: aliceblue;
+    width: fit-content;
+    padding: 15px 40px;
+    border-radius: 50%;
+}
